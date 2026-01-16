@@ -14,7 +14,7 @@ The analysis focuses on three core questions:
 
 -Where is profitability created or lost, and why?
 
-### Tools & Technologies
+## Tools & Technologies
 
 -PostgreSQL – data storage and transformation
 
@@ -24,13 +24,13 @@ The analysis focuses on three core questions:
 
 -DAX – KPIs and dynamic insights
 
-### Data Source
+## Data Source
 
 -Superstore dataset (Consumer Goods transactional data)
 
 -Data was transformed into analytical SQL views to support efficient reporting and KPI calculation.
 
-### Data Modeling Approach
+## Data Modeling Approach
 
 Instead of loading raw transactional data directly into Power BI, the model uses SQL views to:
 
